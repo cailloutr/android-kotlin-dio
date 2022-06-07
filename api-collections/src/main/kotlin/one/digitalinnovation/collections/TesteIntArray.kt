@@ -1,5 +1,6 @@
 package one.digitalinnovation.collections
 
+//Teste IntArray: criação e iteração sobre a coleção
 fun main() {
     val values = IntArray(5)
     values[0] = 1
